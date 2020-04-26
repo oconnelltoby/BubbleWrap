@@ -11,6 +11,6 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class BubbleWrapItems {
     public static final DeferredRegister<Item> ITEMS = new DeferredRegister<>(ForgeRegistries.ITEMS, BubbleWrap.MODID);
 
-    public static final RegistryObject<Item> BUBBLE_WRAP = ITEMS.register("bubble_wrap_item", () -> new BubbleWrapItem(new Properties()));
+    public static final RegistryObject<Item> BUBBLE_WRAP = ITEMS.register("bubble_wrap_item", BubbleWrapItem::new);
 
 }
