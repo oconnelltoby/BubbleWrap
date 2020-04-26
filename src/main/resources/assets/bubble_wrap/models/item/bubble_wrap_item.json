@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bubble_wrap:item/bubble_wrap_item"
+  }
+}
