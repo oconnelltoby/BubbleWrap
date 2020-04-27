@@ -1,0 +1,7 @@
+{
+  "bubble_wrap_pop": {
+    "category": "player",
+    "subtitle": "bubble_wrap.subtitle.bubble_wrap_pop",
+    "sounds": [ "bubble_wrap:bubble_wrap_pop" ]
+  }
+}
