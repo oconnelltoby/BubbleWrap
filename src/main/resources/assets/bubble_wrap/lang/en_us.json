@@ -1,4 +1,5 @@
 {
   "item.bubble_wrap.bubble_wrap_item": "Bubble Wrap",
-  "itemGroup.bubble_wrap": "Bubble Wrap"
+  "itemGroup.bubble_wrap": "Bubble Wrap",
+  "sounds.bubble_wrap.bubble_wrap_pop": "Bubble Wrap Pop"
 }
