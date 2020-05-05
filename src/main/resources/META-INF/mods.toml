@@ -26,8 +26,7 @@ displayName="Bubble Wrap" #mandatory
 # A text field displayed in the mod UI
 #credits="Thanks for this example mod goes to Java" #optional
 # A text field displayed in the mod UI
-#authors="Love, Cheese and small house plants" #optional
-# The description text for the mod (multi line!) (#mandatory)
+authors="Toby O" #optional
 description='''
 Pop some bubbles!
 '''
